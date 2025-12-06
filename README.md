@@ -5,11 +5,11 @@
   1. Aufzeichnungen
      * [Aufzeichnungen aus yopad](aufzeichnungen.md)
 
-  1. Linux Administration
-     * [Zeitzone setzen](linux/timedatectl.md)
+  1. Wichtige Links / Kapitel
 
   1. Linux
 
+     * [Zeitzone setzen](linux/timedatectl.md)
      * [MAC-Adressen/Layer2-Netzwerk/Broadcast-Domain](netzwerk/mac-adressen.md)
      * [Layer2-Netzwerk/Broadcast-Domain](/netzwerk/layer2-netzwerk-brodcast-domain.md)
      * [Switches](netzwerk/switches.md)
