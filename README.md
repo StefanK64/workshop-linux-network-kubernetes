@@ -6,6 +6,7 @@
      * [Aufzeichnungen aus yopad](aufzeichnungen.md)
 
   1. Wichtige Links / Kapitel
+     * [Wichtige kubectl Commands](/kubectl/spickzettel.md)
 
   1. Linux
 
